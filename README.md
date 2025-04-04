@@ -16,7 +16,8 @@
 </picture>
 
 <picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmarioneto" />
+  <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmarioneto&show_icons=true&layout=compact&langs_count=16&theme=transparent" /-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmarioneto&show_icons=true&layout=compact&theme=transparent" />  
 </picture>
 
 ###
