@@ -16,7 +16,7 @@
 </picture>
 
 <picture>
-  <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmarioneto&show_icons=true&layout=compact&langs_count=16&theme=transparent" /-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmarioneto&show_icons=true&layout=compact&langs_count=16&theme=transparent" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmarioneto&show_icons=true&layout=compact&theme=transparent" />  
 </picture>
 
@@ -30,16 +30,14 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swiper/swiper-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framework7/framework7-original.svg" />        
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framework7/framework7-original.svg" />   
+  <img align="center" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-cordoba-226086.png" />       
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-cordoba-226086.png?f=webp&amp;w=256" />
-
-  
 </div>
 
 ##
