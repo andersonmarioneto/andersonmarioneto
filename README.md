@@ -37,6 +37,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+  <img alt="Free Córdoba Logo Ícone" width="256" src="https://cdn.iconscout.com/icon/free/png-256/free-cordoba-226086.png?f=webp&amp;w=256" srcset="https://cdn.iconscout.com/icon/free/png-256/free-cordoba-226086.png?f=webp&amp;w=256 1x, https://cdn.iconscout.com/icon/free/png-256/free-cordoba-226086.png?f=webp&amp;w=512 2x">
+
+  
 </div>
 
 ##
