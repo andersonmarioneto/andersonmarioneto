@@ -1,4 +1,5 @@
-## Hello, I'm Anderson. 👋
+## Hello, I'm Anderson Neto. 👋
+# UI-UX Designer and FrontEnd Developer 
 
 - 🔭 I work with **User Interface Design** and **Web Development**.
 - 🌱 I'm a **Computer Science** student.
