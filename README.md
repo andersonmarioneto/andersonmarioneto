@@ -5,10 +5,6 @@ UI-UX Designer and FrontEnd Developer
 - 🔭 I work with **User Interface Design** and **Web Development**.
 - 🌱 I'm a **Computer Science** student.
 
-<picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmarioneto&show_icons=true&layout=compact&theme=transparent" />  
-</picture>
-
 ###
 **Language and Tools**
 
